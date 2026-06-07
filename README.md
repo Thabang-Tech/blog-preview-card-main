@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-screenshot(./blog-preview-card-main/screenshot.jpg)
+[![Screenshot](./blog-preview-card-main/screenshot.jpg)](./blog-preview-card-main/screenshot.jpg)
 
 
 ### Links
