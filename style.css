@@ -76,7 +76,7 @@ body {
 }
 .attribution {
     position: fixed;
-    bottom: 0.625;
+    bottom: 0.625rem;
     left: 0;
     width: 100%;
     text-align: center;
