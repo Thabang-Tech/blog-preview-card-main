@@ -45,7 +45,7 @@ Users should be able to:
 ```
 ```css
 .card{
-  box-shadow: 8px 8px 0 black;
+  box-shadow: 0.5rem 0.5rem 0 black;
   }
 ```
 ```html
